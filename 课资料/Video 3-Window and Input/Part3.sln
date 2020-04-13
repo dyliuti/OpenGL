@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3-InitOpenGL_1", "Part3-InitOpenGL_1.vcxproj", "{6BCB4817-B359-48B1-AA2D-D86A524ABFAC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3-InitOpenGL_2", "Part3-InitOpenGL_2.vcxproj", "{301C0AD5-88AB-4970-9F63-39C2ACB45E7B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3-InitOpenGL_3", "Part3-InitOpenGL_3.vcxproj", "{7EE3EFD9-6B31-4FFB-81C0-76E8C8F2A555}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3-InitOpenGL_4", "Part3-InitOpenGL_4.vcxproj", "{B315CD2D-199C-443C-8DC6-E712E278CD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCB4817-B359-48B1-AA2D-D86A524ABFAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BCB4817-B359-48B1-AA2D-D86A524ABFAC}.Debug|Win32.Build.0 = Debug|Win32
+		{6BCB4817-B359-48B1-AA2D-D86A524ABFAC}.Release|Win32.ActiveCfg = Release|Win32
+		{6BCB4817-B359-48B1-AA2D-D86A524ABFAC}.Release|Win32.Build.0 = Release|Win32
+		{301C0AD5-88AB-4970-9F63-39C2ACB45E7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{301C0AD5-88AB-4970-9F63-39C2ACB45E7B}.Debug|Win32.Build.0 = Debug|Win32
+		{301C0AD5-88AB-4970-9F63-39C2ACB45E7B}.Release|Win32.ActiveCfg = Release|Win32
+		{301C0AD5-88AB-4970-9F63-39C2ACB45E7B}.Release|Win32.Build.0 = Release|Win32
+		{7EE3EFD9-6B31-4FFB-81C0-76E8C8F2A555}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EE3EFD9-6B31-4FFB-81C0-76E8C8F2A555}.Debug|Win32.Build.0 = Debug|Win32
+		{7EE3EFD9-6B31-4FFB-81C0-76E8C8F2A555}.Release|Win32.ActiveCfg = Release|Win32
+		{7EE3EFD9-6B31-4FFB-81C0-76E8C8F2A555}.Release|Win32.Build.0 = Release|Win32
+		{B315CD2D-199C-443C-8DC6-E712E278CD94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B315CD2D-199C-443C-8DC6-E712E278CD94}.Debug|Win32.Build.0 = Debug|Win32
+		{B315CD2D-199C-443C-8DC6-E712E278CD94}.Release|Win32.ActiveCfg = Release|Win32
+		{B315CD2D-199C-443C-8DC6-E712E278CD94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
