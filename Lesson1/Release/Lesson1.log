@@ -1,10 +1,10 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
   Lesson1.cpp
 LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
   正在生成代码
-  3 of 116 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
-glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“C:\Code\OpenGL\Lesson1\bin\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
-  Lesson1.vcxproj -> C:\Code\OpenGL\Lesson1\.\bin\Lesson1.exe
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“C:\Git\OpenGL\Lesson1\bin\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  1 of 116 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Lesson1.vcxproj -> C:\Git\OpenGL\Lesson1\.\bin\Lesson1.exe
