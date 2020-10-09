@@ -1,0 +1,39 @@
+﻿  Lesson1.cpp
+  Texture.cpp
+  Texture0.cpp
+  Triangle.cpp
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwSwapBuffers
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewEnableVertexAttribArray
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewBindVertexArray
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewUseProgram
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewVertexAttribPointer
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderiv
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewCompileShader
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewCreateShader
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewBindBuffer
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewCreateProgram
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGetShaderInfoLog
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramiv
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwTerminate
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwPollEvents
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwInit
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewDeleteVertexArrays
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwSetKeyCallback
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwSetWindowShouldClose
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwCreateWindow
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwWindowHint
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwMakeContextCurrent
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewBufferData
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewAttachShader
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewShaderSource
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGenVertexArrays
+Texture0.obj : error LNK2001: 无法解析的外部符号 glewExperimental
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGetProgramInfoLog
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGenBuffers
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewGenerateMipmap
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewDeleteShader
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewLinkProgram
+Texture0.obj : error LNK2001: 无法解析的外部符号 glfwWindowShouldClose
+Texture0.obj : error LNK2001: 无法解析的外部符号 glewInit
+Texture0.obj : error LNK2001: 无法解析的外部符号 __glewDeleteBuffers
+D:\Git\OpenGL\Lesson1\x64\Release\Lesson1.exe : fatal error LNK1120: 34 个无法解析的外部命令
