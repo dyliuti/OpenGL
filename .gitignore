@@ -1,6 +1,10 @@
 # 忽略产生的文件
 # ----------------------------------------------------------------------------
-
+Lesson1/*
+Lesson1/*.vs/*
+*.vs
+Lesson1/Debug/*
+Lesson1/Release/*
 *~
 *.autosave
 *.a
@@ -70,7 +74,4 @@ Thumbs.db
 # --------
 *.dll
 *.exe
-Lesson1/.vs/*
-*.vs
-Debug/*
-Release/*
+
